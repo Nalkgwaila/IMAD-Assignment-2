@@ -35,6 +35,13 @@ Conclusion
 The app provides a digital pet care experience, promoting responsibility, relaxation, and entertainment and its evolution and adaptability ensure its continued relevance in the digital landscape. And for the design and considerations of the app it is aim to recreate the nostalgic experience of the original handheld by handheld toy while incorporating the modern features and technologies. This app prioritizes user- friendly interface and engaging gameplay. And lastly for the GitHub and GitHub Actions, it has streamlined the development workflow, improved code quality, and enhanced collaboration. 
 
 
-![Screenshot_20240923_135445](https://github.com/user-attachments/assets/6ef451a9-6631-42e5-92d5-b4ab2640352f)
-![Screenshot_20240923_141227](https://github.com/user-attachments/assets/8800cda7-10d5-4b63-ac00-1c10aa36bd11)
+![First Screen](https://github.com/user-attachments/assets/c592b31d-3a80-4e1c-8709-3423db5f471f)
+![Screen second](https://github.com/user-attachments/assets/5af37347-bbc0-4a14-91fc-a0cd56603861)
+![feed button](https://github.com/user-attachments/assets/5f5f4770-a6de-43ed-aaec-f75701eb6093)
+![clean button](https://github.com/user-attachments/assets/2a43c407-862b-407c-ad79-1e6588ab9070)
+![playbutton](https://github.com/user-attachments/assets/b5057dd2-4e49-4804-bc0a-1fef5ace13d1)
+
+
+
+
 
