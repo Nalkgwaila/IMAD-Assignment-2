@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignmnet2 IMAD</string>
+    <string name="tamagotchi_welcome">Welcome to Jack Your Tamagotchi App</string>
+    <string name="Button">Get Started</string>
+    <string name="button2">Clean</string>
+    <string name="button4">Feed</string>
+    <string name="button3">Play</string>
+    <string name="textView2">Hunger</string>
+    <string name="textView3">Clean</string>
+    <string name="textView4">Happy</string>
+    <string name="textView5">Hunger</string>
+    <string name="textView6">Health</string>
+    <string name="textView7">Cleanliness</string>
+    <string name="textView8">Health: 100</string>
+    <string name="textView9">Hunger:100</string>
+    <string name="textView10">Cleanliness:100</string>
+    <string name="textView11">Happiness: 50</string>
+    <string name="textView12">Energy: 100</string>
+</resources>
